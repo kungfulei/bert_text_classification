@@ -20,7 +20,7 @@
 
   （类似于多窗口大小的ngram），从而能够更好地捕捉局部相关性。
 
-  ![1590812626](D:\bert_text_cnn\bert_text_classification\images\1590812626.png)
+  ![1590812626](https://github.com/kungfulei/bert_text_classification/blob/master/images/1590812626.png)
 
 + TextCNN模型结构
 
