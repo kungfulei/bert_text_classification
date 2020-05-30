@@ -4,7 +4,7 @@
 
 ### 文本分类流程
 
-+ ![1590812453(1)](D:\bert_text_cnn\bert_text_classification\images\1590812453(1).png)
++ ![1590812453(1)](https://github.com/kungfulei/bert_text_classification/blob/master/images/1590812453(1).png)
 
 ### CNN
 
