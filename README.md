@@ -44,7 +44,7 @@
 
 + TextCNN训练详细过程
 
-  + ![1590813717(1)](D:\bert_text_cnn\bert_text_classification\images\1590813717(1).png)
+  + ![1590813717(1)](https://github.com/kungfulei/bert_text_classification/blob/master/images/1590813717(1).png)
     +  Embedding：第一层是图中最左边的7乘5的句子矩阵，每行是词向量，维度=5，这个可以类比为图像中的原始像素点。
     + Convolution：然后经过 kernel_sizes=(2,3,4) 的一维卷积层，每个kernel_size 有两个输出 channel。
     + MaxPolling：第三层是一个1-max pooling层，这样不同长度句子经过pooling层之后都能变成定长的表示。
