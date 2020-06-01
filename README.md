@@ -24,7 +24,7 @@
 
 + TextCNN模型结构
 
-  + ![1590812792(1)](D:\bert_text_cnn\bert_text_classification\images\1590812792(1).png)
+  + ![1590812792(1)](https://github.com/kungfulei/bert_text_classification/blob/master/images/1590812792(1).png)
 
 + TextCnn与image-CNN的差别：
 
