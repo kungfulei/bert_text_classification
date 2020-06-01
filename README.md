@@ -63,7 +63,7 @@
 
 + 模型结构：
 
-  + ![1590814167(1)](D:\bert_text_cnn\bert_text_classification\images\1590814167(1).png)
+  + ![1590814167(1)](https://github.com/kungfulei/bert_text_classification/blob/master/images/1590814167(1).png)
 
 + RCNN 整体的模型构建流程如下：
 
